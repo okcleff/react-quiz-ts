@@ -2,7 +2,7 @@
 ## Building a quiz app with React and TypeScript
 
 ### Sources
-- 서비스 배포 링크: [https://main.dp40zslv0mukn.amplifyapp.com](https://okclef-react-quiz-ts.netlify.app/)
+- 서비스 배포 링크: [https://okclef-react-quiz-ts.netlify.app/](https://okclef-react-quiz-ts.netlify.app/)
 - Lecture Link:  [React / Typescript Tutorial - Build a Quiz App](https://www.youtube.com/watch?v=F2JCjVSZlG0)
 - Trivia Questions Database API: [Open Trivia](https://opentdb.com/)
 - Background Image: https://unsplash.com/photos/mRMQwK513hY
